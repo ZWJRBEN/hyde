@@ -126,6 +126,10 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+.post {
+  text-align: justify;
+}
+
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
