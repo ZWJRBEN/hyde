@@ -3,7 +3,7 @@ layout: post
 title: Introducing Wujiarui Zheng
 ---
 
-> You should always step out of comfort zone.
+> You should always step out of the comfort zone.
 
 
 I am a senior student at [School of Physics and Technology](http://physics.whu.edu.cn/en/Home.htm) of [Wuhan University](https://en.whu.edu.cn/), where my major is Microelectronic Engineering, expected to graduate in 2022. As the student member of IEEE, my research interest is Si-based RF/mm-wave circuit design, with a special focus on High-Sensitivity Millimeter-Wave Dielectric Resonator Sensors for Non-invasive Biomedical Detection. Previously, some Chinese Invention Patents and Chinese core journal publications are now pending or has been published, and also **a chip is under fabrication** in GF 130nm SiGe BiCMOS 8XP technology for multiple project wafer (MPW).
