@@ -10,4 +10,4 @@ I am a senior student at [School of Physics and Technology](http://physics.whu.e
 
 My current supvervisor is Prof. [_Jin He_](http://physics.whu.edu.cn/info/1053/2154.htm), [IEEE Senior Member](https://ieeexplore.ieee.org/author/37404360500), who received the Ph.D. degree from the Nanyang Technological University, Singapore, in 2011, and has been working on analog/RF/mm-Wave in both academia and industry during 2003-2013 in China and Singapore, respectively, holding positions of Engineer, Research Associate, Senior Research Engineer, Scientist, and Project Leader. He joined in Wuhan University, China in 2013 and is now an Associate Professor of the School of Physics and Technology, Wuhan University, China. His current research interests include analog/RF/mm-Wave/THz integrated circuit design in CMOS/BiCMOS/SiGe for optical and wireless applications.
 
-If you have any question, please feel free to contact me [here](<zhengwujiarui@outlook.com>).
+If you have any question, please feel free to contact me [here](zhengwujiarui@outlook.com).
